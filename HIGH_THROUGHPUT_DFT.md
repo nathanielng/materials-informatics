@@ -11,10 +11,10 @@
 
 ## 2. High Throughput DFT Code
 
-  Code                          | Reference
- -------------------------------|-----------
- [AiiDA](http://www.aiida.net)  | [AiiDA: automated interactive infrastructure and database for computational science](https://doi.org/10.1016/j.commatsci.2015.09.013)
- [Atomate](https://atomate.org) | [Atomate: A high-level interface to generate, execute, and analyze computational materials science workflows](https://doi.org/10.1016/j.commatsci.2017.07.030)
+  Code                          | Github | Reference
+ -------------------------------|--------|-----------
+ [AiiDA](http://www.aiida.net)  | [aiidateam/aiida-core](https://github.com/aiidateam/aiida-core) | [AiiDA: automated interactive infrastructure and database for computational science](https://doi.org/10.1016/j.commatsci.2015.09.013)
+ [Atomate](https://atomate.org) | [hackingmaterials/atomate](https://github.com/hackingmaterials/atomate) | [Atomate: A high-level interface to generate, execute, and analyze computational materials science workflows](https://doi.org/10.1016/j.commatsci.2017.07.030)
 
 
 ## 3. References

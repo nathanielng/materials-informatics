@@ -11,6 +11,11 @@ This is a repository to keep track of materials informatics efforts.
 **Note**: this list is a work in progress and there are other similar initiatives (listed below).
 
 
+## Database Collections
+
+1. [NIST SRD (Standnard Reference Data) Catalog](https://www.nist.gov/srd/srd-catalog)
+2. [NIMS Materials Database](https://mits.nims.go.jp/index_en.html)
+
 ## Other Initiatives
 
 Other initiatives to keep track of material informatics efforts include:

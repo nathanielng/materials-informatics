@@ -1,0 +1,8 @@
+# Databases
+
+## Databases accessible via web-based search interface
+
+1. [ChemSpider](http://www.chemspider.com)
+2. [MatWeb](http://matweb.com)
+3. [Mindat.org](https://www.mindat.org)
+4. [PubChem](https://pubchem.ncbi.nlm.nih.gov)

@@ -18,7 +18,7 @@ Other initiatives to keep track of material informatics efforts include:
 1. [tilde-lab/awesome-materials-informatics](https://github.com/tilde-lab/awesome-materials-informatics)
 2. [blaiszik/Materials-Databases](https://github.com/blaiszik/Materials-Databases)
 3. [acceleratedmaterials.org](http://acceleratedmaterials.org/free-materials-databases-and-repositories/)
-4. Joanne Hill, Gregory Mulholland, Kristin Persson, Ram Seshadri, Chris Wolverton, and Bryce Meredig, [Materials science with large-scale data and informatics: Unlocking new opportunities](https://doi.org/10.1557/mrs.2016.93), *MRS Bulleting*, **41**, 399, (2016). doi: 10.1557/mrs.2016.93 - Table I.
+4. Joanne Hill, Gregory Mulholland, Kristin Persson, Ram Seshadri, Chris Wolverton, and Bryce Meredig, [Materials science with large-scale data and informatics: Unlocking new opportunities](https://doi.org/10.1557/mrs.2016.93), *MRS Bulletin*, **41**, 399, (2016). doi: 10.1557/mrs.2016.93 - Table I.
 
 ## Contact
 

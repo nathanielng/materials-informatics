@@ -6,3 +6,8 @@
 2. [MatWeb](http://matweb.com)
 3. [Mindat.org](https://www.mindat.org)
 4. [PubChem](https://pubchem.ncbi.nlm.nih.gov)
+
+## Downloadable open databases
+
+1. [CoRE-MOFs](https://gregchung.github.io/CoRE-MOFs/)
+2. [OQMD](http://oqmd.org/) (Open Quantum Materials Database)

@@ -9,5 +9,5 @@
 
 ## Downloadable open databases
 
-1. [CoRE-MOFs](https://gregchung.github.io/CoRE-MOFs/)
+1. [CoRE-MOFs](https://gregchung.github.io/CoRE-MOFs/), hosted [on Zenodo](https://zenodo.org/record/3528250)
 2. [OQMD](http://oqmd.org/) (Open Quantum Materials Database)

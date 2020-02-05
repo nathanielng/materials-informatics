@@ -6,7 +6,7 @@
 2. [MatWeb](http://matweb.com)
 3. [Mindat.org](https://www.mindat.org)
 4. [PubChem](https://pubchem.ncbi.nlm.nih.gov)
-5. [Crystalium](http://crystalium.materialsvirtuallab.org) by Materials Virtual Lab - elemental grain boundary database (GBDB) ([327 GBs of 58 elemental metals](https://materialsvirtuallab.org/2020/01/grain-boundary-database/)), surfaces, and Wulff shapes
+5. [Crystalium](http://crystalium.materialsvirtuallab.org) by Materials Virtual Lab - elemental grain boundary database (GBDB) ([327 GBs of 58 elemental metals](https://materialsvirtuallab.org/2020/01/grain-boundary-database/)), surfaces, and Wulff shapes. **Publication**: Hui Zheng, Xiang-Guo Li, Richard Tran, Chi Chen, Matthew Horton, Donald Winston, Kristin Aslaug Persson, Shyue Ping Ong, "[Grain boundary properties of elemental metals](https://doi.org/10.1016/j.actamat.2019.12.030)", *Acta Materialia*, **186**, 40-49, 2020.
 
 ## 2. Downloadable open databases
 

@@ -2,14 +2,14 @@
 
 ## 1. High Throughput DFT Databases
 
- Database                                         | Data Access 
---------------------------------------------------|--------------------
- [AFlowLib](http://aflowlib.org)                  | API
- [Materials Project](http://materialsproject.org) | API
- [OQMD](http://oqmd.org)                          | API, MySQL Database
+ Database                                         | Data Access              | Publication 
+--------------------------------------------------|--------------------------|--------------
+ [AFlowLib](http://aflowlib.org)                  | API                      | [Curtarolo, 2012. Computational Materials Science](https://doi.org/10.1016/j.commatsci.2012.02.002)
+ [Materials Project](http://materialsproject.org) | API                      | [Jain, 2013. APL Materials](https://doi.org/10.1063/1.4812323)
+ [OQMD](http://oqmd.org)                          | API, MySQL database dump | [Saal, 2013. JOM](https://doi.org/10.1007/s11837-013-0755-4)
 
 
-## 2. High Throughput DFT Code
+## 2. High Throughput DFT Automation
 
   Code                          | Github | Reference
  -------------------------------|--------|-----------

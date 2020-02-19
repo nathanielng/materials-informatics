@@ -19,6 +19,8 @@
 
 ## 3. References
 
+### 3.1 Papers
+
 1. Giovanni Pizzi, Andrea Cepellotti, Riccardo Sabatini, Nicola Marzari,
    and Boris Kozinsky, "AiiDA: automated interactive infrastructure and
    database for computational science,"
@@ -30,3 +32,14 @@
    computational materials science workflows."
    *Comput. Mater. Sci.* **139**, 140-152 (2017). doi: 10.1016/j.commatsci.2017.07.030
  
+### 3.2 Data
+
+1. Kirsten Winther, Max Hoffmann, Philomena Schlexer, Osman Mamun, Jacob Boes,
+   and Thomas Bligaard.
+   "CatHub: A Python API for the Surface Reactions database on Catalysis-Hub.org."
+   *Zenodo*. 2019.
+   DOI: [10.5281/zenodo.2600392](http://doi.org/10.5281/zenodo.2600391)
+2. Paul Jennings, Martin Hangaard Hansen, Jose A. Garrido Torres, Jacob Boes,
+   Raul Flores, Andrew, Ziyun Wang, Max Hoffmann, Osman Mamun and Philomena Schlexer.
+   "CatLearn", *Zenodo*. 2019. doi: [10.5281/zenodo.2601873](https://doi.org/10.5281/zenodo.2601873)
+

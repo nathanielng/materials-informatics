@@ -1,15 +1,16 @@
-# High Throughput DFT
+# Databases from Computer Simulation
 
-## 1. High Throughput DFT Databases
+## 1. Databases for Electronic Structure Calculations
 
  Database                                         | Data Access              | Publication 
 --------------------------------------------------|--------------------------|--------------
  [AFlowLib](http://aflowlib.org)                  | API                      | [Curtarolo, 2012. Computational Materials Science](https://doi.org/10.1016/j.commatsci.2012.02.002)
+ [Catalyst Hub](https://www.catalysis-hub.org)    | API                      | [Winther, 2019. Scientific Data](https://doi.org/10.1038/s41597-019-0081-y)
  [Materials Project](http://materialsproject.org) | API                      | [Jain, 2013. APL Materials](https://doi.org/10.1063/1.4812323)
  [OQMD](http://oqmd.org)                          | API, MySQL database dump | [Saal, 2013. JOM](https://doi.org/10.1007/s11837-013-0755-4)
 
 
-## 2. High Throughput DFT Automation
+## 2. Automation for High Throughput DFT
 
   Code                          | Github | Reference
  -------------------------------|--------|-----------

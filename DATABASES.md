@@ -18,3 +18,7 @@
 ### 2.2 Materials databases with NLP data
 
 1. Inorganic materials science [named entities database](https://figshare.com/articles/Entities_database/8184413) of 3.27 million materials science abstracts (1.43 GB JSON file) and [entity normalization database](https://figshare.com/articles/Entity_Normalization/8184365) (9.05 MB JSON file).  **Publication**: Weston et al., "Named Entity Recognition and Normalization Applied to Large-Scale Information Extraction from the Materials Science Literature" *J. Chem Inf Model.* **59**(9), 3692-3702, 2019. doi: [10.1021/acs.jcim.9b00470](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00470)  **Github**: https://github.com/materialsintelligence/matscholar. **Website**: http://matscholar.com
+
+### 2.3 Chemistry databases
+
+1. **Pubchem Database**: Kim, S. et al., "Pubchem substance and compound databases." *Nucleic Acids Res.* **44**, D1202–D1213 (2015). doi: [10.1093/nar/gkv951](https://doi.org/10.1093/nar/gkv951). **Download** the dataset [in bulk via ftp](ftp://ftp.ncbi.nlm.nih.gov/pubchem) or [a subset of the data](https://pubchem.ncbi.nlm.nih.gov/pc_fetch/pc_fetch.cgi).

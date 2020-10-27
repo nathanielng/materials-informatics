@@ -6,8 +6,9 @@ This is a repository to keep track of materials informatics efforts.
 
 1. [`APIs.md`](https://nathanielng.github.io/materials-informatics/APIs): API access to cloud-hosted Material Databases
 2. [`DATABASES.md`](https://nathanielng.github.io/materials-informatics/DATABASES): databases accessible via a web-based search interface
-3. [`HIGH_THROUGHPUT_DFT.md`](https://nathanielng.github.io/materials-informatics/HIGH_THROUGHPUT_DFT): databases generated via high throughput DFT frameworks, as well as associated code for generating data via high throughput computation.
-4. [`MODELS.md`](https://nathanielng.github.io/materials-informatics/MODELS): models / knowledgebases for materials informatic predictions / inference.
+3. [`FEATURES.md`](https://nathanielng.github.io/materials-informatics/FEATURES): libraries for feature engineering
+4. [`HIGH_THROUGHPUT_DFT.md`](https://nathanielng.github.io/materials-informatics/HIGH_THROUGHPUT_DFT): databases generated via high throughput DFT frameworks, as well as associated code for generating data via high throughput computation.
+5. [`MODELS.md`](https://nathanielng.github.io/materials-informatics/MODELS): models / knowledgebases for materials informatic predictions / inference.
 
 **Note**: this list is a work in progress and there are other similar initiatives (listed below).
 

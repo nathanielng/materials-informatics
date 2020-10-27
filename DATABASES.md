@@ -21,4 +21,4 @@
 
 ### 2.3 Chemistry databases
 
-1. **Pubchem Database**: Kim, S. et al., "Pubchem substance and compound databases." *Nucleic Acids Res.* **44**, D1202–D1213 (2015). doi: [10.1093/nar/gkv951](https://doi.org/10.1093/nar/gkv951). **Download** the dataset [in bulk via ftp](ftp://ftp.ncbi.nlm.nih.gov/pubchem) or [a subset of the data](https://pubchem.ncbi.nlm.nih.gov/pc_fetch/pc_fetch.cgi).
+1. **Pubchem Database**: Kim, S. et al., "Pubchem substance and compound databases." *Nucleic Acids Res.* **44**, D1202–D1213 (2015). doi: [10.1093/nar/gkv951](https://doi.org/10.1093/nar/gkv951). **Download** the dataset in bulk via ftp ([ftp://ftp.ncbi.nlm.nih.gov/pubchem](ftp://ftp.ncbi.nlm.nih.gov/pubchem)) or just download [a subset of the data](https://pubchem.ncbi.nlm.nih.gov/pc_fetch/pc_fetch.cgi).
